@@ -4,3 +4,4 @@ we will study about different Concepts
 Syntax
 Important libraries
 Applications
+In this chapter, we study about how java is made,it's importance and its evolution with passage of time.
