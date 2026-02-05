@@ -8,3 +8,6 @@ In this chapter, we study about how java is made,it's importance and its evoluti
 Programming languages are developed beacuse of two reasons
 1)To adjust with changing environments 
 2)to improve the programming 
+
+JAVA'S LINEAGE:
+
