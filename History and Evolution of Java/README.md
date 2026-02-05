@@ -5,3 +5,6 @@ Syntax
 Important libraries
 Applications
 In this chapter, we study about how java is made,it's importance and its evolution with passage of time.
+Programming languages are developed beacuse of two reasons
+1)To adjust with changing environments 
+2)to improve the programming 
